@@ -99,11 +99,6 @@ npm run dev
 ---
 
 ## 📸 Screenshots
-
-<p align="center">
-  <img src="/frontend/public/screenshot-for-readme.png" alt="App Screenshot" width="800"/>
-</p>
-
 ---
 
 ## 🤝 Contributing
