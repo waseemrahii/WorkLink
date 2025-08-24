@@ -99,6 +99,11 @@ npm run dev
 ---
 
 ## 📸 Screenshots
+
+<p align="center">
+  <img src="/frontend/public/worklink.png" alt="App Screenshot" width="800"/>
+</p>
+
 ---
 
 ## 🤝 Contributing
